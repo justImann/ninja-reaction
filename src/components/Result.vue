@@ -1,5 +1,5 @@
 <template>
-  <article class="group relative block h-72 mb-12">
+  <article class="group relative block h-72 mb-12 cursor-pointer">
     <span class="absolute inset-0 border-2 border-dashed border-black"></span>
 
     <div
